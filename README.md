@@ -1,12 +1,10 @@
-# Getting Started with Create React App
+# Pokedex 
 
 [![Captura-de-pantalla-45.png](https://i.postimg.cc/L6RySsZh/Captura-de-pantalla-45.png)](https://postimg.cc/kD1NFqsd)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
 
-## Available Scripts
-
-In the project directory, you can run:
+Aplicación que te lleva al mundo de pokémon. más de 50 variedades, con sus respectivos tipos.
 
 ### `npm start`
 
