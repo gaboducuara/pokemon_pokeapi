@@ -1,10 +1,10 @@
 # Pokedex 
 
-[![Captura-de-pantalla-45.png](https://i.postimg.cc/L6RySsZh/Captura-de-pantalla-45.png)](https://postimg.cc/kD1NFqsd)
-
 ## Description
 
 Aplicación que te lleva al mundo de pokémon. más de 50 variedades, con sus respectivos tipos.
+
+[![Captura-de-pantalla-45.png](https://i.postimg.cc/L6RySsZh/Captura-de-pantalla-45.png)](https://postimg.cc/kD1NFqsd)
 
 ### `npm start`
 
