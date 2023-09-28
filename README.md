@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-[url=https://postimg.cc/kD1NFqsd][img]https://i.postimg.cc/kD1NFqsd/Captura-de-pantalla-45.png[/img][/url]
+[![Captura-de-pantalla-45.png](https://i.postimg.cc/L6RySsZh/Captura-de-pantalla-45.png)](https://postimg.cc/kD1NFqsd)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
