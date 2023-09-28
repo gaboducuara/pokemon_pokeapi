@@ -1,8 +1,9 @@
 # Pokedex 
 
-## Description
-
 Aplicación que te lleva al mundo de pokémon. más de 50 variedades, con sus respectivos tipos.
+
+## Demo
+https://wonderful-marzipan-15f08b.netlify.app/
 
 [![Captura-de-pantalla-45.png](https://i.postimg.cc/L6RySsZh/Captura-de-pantalla-45.png)](https://postimg.cc/kD1NFqsd)
 
